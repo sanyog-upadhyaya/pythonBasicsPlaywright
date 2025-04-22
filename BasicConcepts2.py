@@ -36,3 +36,4 @@ print(summation)
 for j in range(1,5,2): # here 1 is start, 5 is j-1 that end index 4 and 2 is j+2
     print("{}{}{}".format("number is ", j, "Iterated interval 2" ))
 
+# loops
